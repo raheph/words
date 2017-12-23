@@ -1,0 +1,106 @@
+[20:18:25] Generated words size : 0
+[20:18:26] Generated words size : 6
+[20:18:26] Generated words size : 6
+[20:18:48] Generated words size : 6
+[10:02:00] Generated words size : 6
+[13:26:02] Generated words size : 0
+[13:26:03] Generated words size : 6
+[13:26:03] Generated words size : 6
+[13:42:30] Generated words size : 0
+[13:42:31] Generated words size : 6
+[13:42:31] Generated words size : 6
+[13:57:31] Generated words size : 0
+[13:57:31] Generated words size : 6
+[13:57:32] Generated words size : 6
+[14:05:27] Generated words size : 0
+[14:05:28] Generated words size : 6
+[14:05:28] Generated words size : 6
+[14:07:58] Generated words size : 0
+[14:07:58] Generated words size : 6
+[14:07:58] Generated words size : 6
+[14:16:22] Generated words size : 0
+[14:16:23] Generated words size : 6
+[14:16:23] Generated words size : 6
+[14:33:29] Generated words size : 0
+[14:33:30] Generated words size : 6
+[14:33:30] Generated words size : 6
+[14:37:14] Generated words size : 6
+[14:42:14] Generated words size : 6
+[13:16:17] Generated words size : 0
+[13:16:17] Generated words size : 6
+[13:16:17] Generated words size : 6
+[13:22:04] Generated words size : 0
+[13:22:05] Generated words size : 6
+[13:22:05] Generated words size : 6
+[13:22:31] Generated words size : 0
+[13:22:32] Generated words size : 6
+[13:22:32] Generated words size : 6
+[13:36:14] Generated words size : 0
+[13:36:15] Generated words size : 6
+[13:36:15] Generated words size : 6
+[15:47:26] Generated words size : 0
+[15:47:26] Generated words size : 6
+[15:47:26] Generated words size : 6
+[15:57:36] Generated words size : 6
+[16:02:21] Generated words size : 6
+[16:19:13] Generated words size : 0
+[16:19:14] Generated words size : 6
+[16:19:14] Generated words size : 6
+[16:20:13] Generated words size : 0
+[16:20:13] Generated words size : 6
+[16:20:14] Generated words size : 6
+[16:20:36] Generated words size : 0
+[16:20:36] Generated words size : 6
+[16:20:37] Generated words size : 6
+[16:31:59] Generated words size : 0
+[16:31:59] Generated words size : 6
+[16:31:59] Generated words size : 6
+[16:33:10] Generated words size : 0
+[16:33:10] Generated words size : 6
+[16:33:11] Generated words size : 6
+[23:21:54] Root WebApplicationContext: initialization started
+[23:21:55] Adding [servletConfigInitParams] PropertySource with lowest search precedence
+[23:21:55] Adding [servletContextInitParams] PropertySource with lowest search precedence
+[23:21:55] Adding [jndiProperties] PropertySource with lowest search precedence
+[23:21:55] Adding [systemProperties] PropertySource with lowest search precedence
+[23:21:55] Adding [systemEnvironment] PropertySource with lowest search precedence
+[23:21:55] Initialized StandardServletEnvironment with PropertySources [servletConfigInitParams,servletContextInitParams,jndiProperties,systemProperties,systemEnvironment]
+[23:21:55] Replacing [servletContextInitParams] PropertySource with [servletContextInitParams]
+[23:21:55] Refreshing Root WebApplicationContext: startup date [Fri Dec 22 23:21:55 PST 2017]; root of context hierarchy
+[23:21:55] Adding [systemProperties] PropertySource with lowest search precedence
+[23:21:55] Adding [systemEnvironment] PropertySource with lowest search precedence
+[23:21:55] Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+[23:21:55] Loading XML bean definitions from class path resource [applicationContext.xml]
+[23:21:55] Using JAXP provider [com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl]
+[23:21:55] Loading schema mappings from [META-INF/spring.schemas]
+[23:21:55] Loaded schema mappings: {http://www.springframework.org/schema/cache/spring-cache-4.2.xsd=org/springframework/cache/config/spring-cache-4.2.xsd, http://www.springframework.org/schema/aop/spring-aop-4.1.xsd=org/springframework/aop/config/spring-aop-4.1.xsd, http://www.springframework.org/schema/context/spring-context-3.1.xsd=org/springframework/context/config/spring-context-3.1.xsd, http://www.springframework.org/schema/util/spring-util-3.0.xsd=org/springframework/beans/factory/xml/spring-util-3.0.xsd, http://www.springframework.org/schema/tool/spring-tool.xsd=org/springframework/beans/factory/xml/spring-tool-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop-3.2.xsd=org/springframework/aop/config/spring-aop-3.2.xsd, http://www.springframework.org/schema/lang/spring-lang-4.1.xsd=org/springframework/scripting/config/spring-lang-4.1.xsd, http://www.springframework.org/schema/context/spring-context-4.0.xsd=org/springframework/context/config/spring-context-4.0.xsd, http://www.springframework.org/schema/beans/spring-beans-4.2.xsd=org/springframework/beans/factory/xml/spring-beans-4.2.xsd, http://www.springframework.org/schema/tool/spring-tool-4.1.xsd=org/springframework/beans/factory/xml/spring-tool-4.1.xsd, http://www.springframework.org/schema/lang/spring-lang-3.2.xsd=org/springframework/scripting/config/spring-lang-3.2.xsd, http://www.springframework.org/schema/cache/spring-cache-3.2.xsd=org/springframework/cache/config/spring-cache-3.2.xsd, http://www.springframework.org/schema/jee/spring-jee-4.1.xsd=org/springframework/ejb/config/spring-jee-4.1.xsd, http://www.springframework.org/schema/task/spring-task-4.2.xsd=org/springframework/scheduling/config/spring-task-4.2.xsd, http://www.springframework.org/schema/util/spring-util-2.0.xsd=org/springframework/beans/factory/xml/spring-util-2.0.xsd, http://www.springframework.org/schema/tool/spring-tool-3.2.xsd=org/springframework/beans/factory/xml/spring-tool-3.2.xsd, http://www.springframework.org/schema/context/spring-context.xsd=org/springframework/context/config/spring-context-4.3.xsd, http://www.springframework.org/schema/cache/spring-cache-4.1.xsd=org/springframework/cache/config/spring-cache-4.1.xsd, http://www.springframework.org/schema/aop/spring-aop-4.0.xsd=org/springframework/aop/config/spring-aop-4.0.xsd, http://www.springframework.org/schema/jee/spring-jee-3.2.xsd=org/springframework/ejb/config/spring-jee-3.2.xsd, http://www.springframework.org/schema/context/spring-context-3.0.xsd=org/springframework/context/config/spring-context-3.0.xsd, http://www.springframework.org/schema/util/spring-util-2.5.xsd=org/springframework/beans/factory/xml/spring-util-2.5.xsd, http://www.springframework.org/schema/util/spring-util-4.3.xsd=org/springframework/beans/factory/xml/spring-util-4.3.xsd, http://www.springframework.org/schema/beans/spring-beans-3.2.xsd=org/springframework/beans/factory/xml/spring-beans-3.2.xsd, http://www.springframework.org/schema/aop/spring-aop-3.1.xsd=org/springframework/aop/config/spring-aop-3.1.xsd, http://www.springframework.org/schema/lang/spring-lang-4.0.xsd=org/springframework/scripting/config/spring-lang-4.0.xsd, http://www.springframework.org/schema/beans/spring-beans-4.1.xsd=org/springframework/beans/factory/xml/spring-beans-4.1.xsd, http://www.springframework.org/schema/tool/spring-tool-4.0.xsd=org/springframework/beans/factory/xml/spring-tool-4.0.xsd, http://www.springframework.org/schema/lang/spring-lang-3.1.xsd=org/springframework/scripting/config/spring-lang-3.1.xsd, http://www.springframework.org/schema/cache/spring-cache-3.1.xsd=org/springframework/cache/config/spring-cache-3.1.xsd, http://www.springframework.org/schema/jee/spring-jee-4.0.xsd=org/springframework/ejb/config/spring-jee-4.0.xsd, http://www.springframework.org/schema/task/spring-task-4.1.xsd=org/springframework/scheduling/config/spring-task-4.1.xsd, http://www.springframework.org/schema/tool/spring-tool-3.1.xsd=org/springframework/beans/factory/xml/spring-tool-3.1.xsd, http://www.springframework.org/schema/cache/spring-cache-4.0.xsd=org/springframework/cache/config/spring-cache-4.0.xsd, http://www.springframework.org/schema/jee/spring-jee-3.1.xsd=org/springframework/ejb/config/spring-jee-3.1.xsd, http://www.springframework.org/schema/task/spring-task-3.2.xsd=org/springframework/scheduling/config/spring-task-3.2.xsd, http://www.springframework.org/schema/util/spring-util-4.2.xsd=org/springframework/beans/factory/xml/spring-util-4.2.xsd, http://www.springframework.org/schema/beans/spring-beans-3.1.xsd=org/springframework/beans/factory/xml/spring-beans-3.1.xsd, http://www.springframework.org/schema/util/spring-util.xsd=org/springframework/beans/factory/xml/spring-util-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop-3.0.xsd=org/springframework/aop/config/spring-aop-3.0.xsd, http://www.springframework.org/schema/beans/spring-beans-4.0.xsd=org/springframework/beans/factory/xml/spring-beans-4.0.xsd, http://www.springframework.org/schema/beans/spring-beans.xsd=org/springframework/beans/factory/xml/spring-beans-4.3.xsd, http://www.springframework.org/schema/lang/spring-lang-3.0.xsd=org/springframework/scripting/config/spring-lang-3.0.xsd, http://www.springframework.org/schema/context/spring-context-2.5.xsd=org/springframework/context/config/spring-context-2.5.xsd, http://www.springframework.org/schema/context/spring-context-4.3.xsd=org/springframework/context/config/spring-context-4.3.xsd, http://www.springframework.org/schema/task/spring-task-4.0.xsd=org/springframework/scheduling/config/spring-task-4.0.xsd, http://www.springframework.org/schema/tool/spring-tool-3.0.xsd=org/springframework/beans/factory/xml/spring-tool-3.0.xsd, http://www.springframework.org/schema/aop/spring-aop-2.0.xsd=org/springframework/aop/config/spring-aop-2.0.xsd, http://www.springframework.org/schema/jee/spring-jee-3.0.xsd=org/springframework/ejb/config/spring-jee-3.0.xsd, http://www.springframework.org/schema/util/spring-util-4.1.xsd=org/springframework/beans/factory/xml/spring-util-4.1.xsd, http://www.springframework.org/schema/task/spring-task-3.1.xsd=org/springframework/scheduling/config/spring-task-3.1.xsd, http://www.springframework.org/schema/beans/spring-beans-3.0.xsd=org/springframework/beans/factory/xml/spring-beans-3.0.xsd, http://www.springframework.org/schema/jee/spring-jee.xsd=org/springframework/ejb/config/spring-jee-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop-2.5.xsd=org/springframework/aop/config/spring-aop-2.5.xsd, http://www.springframework.org/schema/aop/spring-aop-4.3.xsd=org/springframework/aop/config/spring-aop-4.3.xsd, http://www.springframework.org/schema/lang/spring-lang-2.0.xsd=org/springframework/scripting/config/spring-lang-2.0.xsd, http://www.springframework.org/schema/util/spring-util-3.2.xsd=org/springframework/beans/factory/xml/spring-util-3.2.xsd, http://www.springframework.org/schema/task/spring-task.xsd=org/springframework/scheduling/config/spring-task-4.3.xsd, http://www.springframework.org/schema/tool/spring-tool-2.0.xsd=org/springframework/beans/factory/xml/spring-tool-2.0.xsd, http://www.springframework.org/schema/lang/spring-lang-2.5.xsd=org/springframework/scripting/config/spring-lang-2.5.xsd, http://www.springframework.org/schema/lang/spring-lang-4.3.xsd=org/springframework/scripting/config/spring-lang-4.3.xsd, http://www.springframework.org/schema/context/spring-context-4.2.xsd=org/springframework/context/config/spring-context-4.2.xsd, http://www.springframework.org/schema/jee/spring-jee-2.0.xsd=org/springframework/ejb/config/spring-jee-2.0.xsd, http://www.springframework.org/schema/tool/spring-tool-4.3.xsd=org/springframework/beans/factory/xml/spring-tool-4.3.xsd, http://www.springframework.org/schema/tool/spring-tool-2.5.xsd=org/springframework/beans/factory/xml/spring-tool-2.5.xsd, http://www.springframework.org/schema/jee/spring-jee-4.3.xsd=org/springframework/ejb/config/spring-jee-4.3.xsd, http://www.springframework.org/schema/jee/spring-jee-2.5.xsd=org/springframework/ejb/config/spring-jee-2.5.xsd, http://www.springframework.org/schema/util/spring-util-4.0.xsd=org/springframework/beans/factory/xml/spring-util-4.0.xsd, http://www.springframework.org/schema/task/spring-task-3.0.xsd=org/springframework/scheduling/config/spring-task-3.0.xsd, http://www.springframework.org/schema/cache/spring-cache-4.3.xsd=org/springframework/cache/config/spring-cache-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop-4.2.xsd=org/springframework/aop/config/spring-aop-4.2.xsd, http://www.springframework.org/schema/lang/spring-lang.xsd=org/springframework/scripting/config/spring-lang-4.3.xsd, http://www.springframework.org/schema/context/spring-context-3.2.xsd=org/springframework/context/config/spring-context-3.2.xsd, http://www.springframework.org/schema/util/spring-util-3.1.xsd=org/springframework/beans/factory/xml/spring-util-3.1.xsd, http://www.springframework.org/schema/beans/spring-beans-2.0.xsd=org/springframework/beans/factory/xml/spring-beans-2.0.xsd, http://www.springframework.org/schema/cache/spring-cache.xsd=org/springframework/cache/config/spring-cache-4.3.xsd, http://www.springframework.org/schema/lang/spring-lang-4.2.xsd=org/springframework/scripting/config/spring-lang-4.2.xsd, http://www.springframework.org/schema/context/spring-context-4.1.xsd=org/springframework/context/config/spring-context-4.1.xsd, http://www.springframework.org/schema/beans/spring-beans-2.5.xsd=org/springframework/beans/factory/xml/spring-beans-2.5.xsd, http://www.springframework.org/schema/beans/spring-beans-4.3.xsd=org/springframework/beans/factory/xml/spring-beans-4.3.xsd, http://www.springframework.org/schema/tool/spring-tool-4.2.xsd=org/springframework/beans/factory/xml/spring-tool-4.2.xsd, http://www.springframework.org/schema/jee/spring-jee-4.2.xsd=org/springframework/ejb/config/spring-jee-4.2.xsd, http://www.springframework.org/schema/task/spring-task-4.3.xsd=org/springframework/scheduling/config/spring-task-4.3.xsd, http://www.springframework.org/schema/aop/spring-aop.xsd=org/springframework/aop/config/spring-aop-4.3.xsd}
+[23:21:55] Found XML schema [http://www.springframework.org/schema/beans/spring-beans.xsd] in classpath: org/springframework/beans/factory/xml/spring-beans-4.3.xsd
+[23:21:55] Loading bean definitions
+[23:21:55] Loaded 1 bean definitions from location pattern [classpath:applicationContext.xml]
+[23:21:55] Bean factory for Root WebApplicationContext: org.springframework.beans.factory.support.DefaultListableBeanFactory@4e00042a: defining beans [scrabbleService]; root of factory hierarchy
+[23:21:55] Registering scope 'request' with implementation [org.springframework.web.context.request.RequestScope@4a0bc783]
+[23:21:55] Registering scope 'session' with implementation [org.springframework.web.context.request.SessionScope@241eee7c]
+[23:21:55] Registering scope 'globalSession' with implementation [org.springframework.web.context.request.SessionScope@303d12a3]
+[23:21:55] Registering scope 'application' with implementation [org.springframework.web.context.support.ServletContextScope@285a3007]
+[23:21:55] Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@291b5903]
+[23:21:55] Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@1a8120b9]
+[23:21:55] Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@751e7a5c]
+[23:21:55] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4e00042a: defining beans [scrabbleService]; root of factory hierarchy
+[23:21:55] Creating shared instance of singleton bean 'scrabbleService'
+[23:21:55] Creating instance of bean 'scrabbleService'
+[23:21:55] Eagerly caching bean 'scrabbleService' to allow for resolving potential circular references
+[23:21:55] Finished creating instance of bean 'scrabbleService'
+[23:21:55] Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@2c1f1d1f]
+[23:21:55] Returning cached instance of singleton bean 'lifecycleProcessor'
+[23:21:55] Looking up JNDI object with name [java:comp/env/spring.liveBeansView.mbeanDomain]
+[23:21:55] Converted JNDI name [java:comp/env/spring.liveBeansView.mbeanDomain] not found - trying original name [spring.liveBeansView.mbeanDomain]. javax.naming.NameNotFoundException: Name [spring.liveBeansView.mbeanDomain] is not bound in this Context. Unable to find [spring.liveBeansView.mbeanDomain].
+[23:21:55] Looking up JNDI object with name [spring.liveBeansView.mbeanDomain]
+[23:21:55] JNDI lookup for name [spring.liveBeansView.mbeanDomain] threw NamingException with message: Name [spring.liveBeansView.mbeanDomain] is not bound in this Context. Unable to find [spring.liveBeansView.mbeanDomain].. Returning null.
+[23:21:55] Could not find key 'spring.liveBeansView.mbeanDomain' in any property source
+[23:21:55] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+[23:21:55] Root WebApplicationContext: initialization completed in 586 ms
+[23:22:28] Returning cached instance of singleton bean 'scrabbleService'
+[23:22:29] Generated words size : 6
+[23:23:37] Closing Root WebApplicationContext: startup date [Fri Dec 22 23:21:55 PST 2017]; root of context hierarchy
+[23:23:37] Returning cached instance of singleton bean 'lifecycleProcessor'
+[23:23:37] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4e00042a: defining beans [scrabbleService]; root of factory hierarchy

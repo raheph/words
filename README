@@ -1,0 +1,21 @@
+The only thing need to be done before building and running this service is:
+
+1- Change the fileName in ScrabbleService class to reflect where is dictionary files are.
+
+One fileName is provided then:
+
+for mac and linux users :
+1- extract the file
+2- open terminal and cd to the directory then run
+
+	./gradlew build tomcatRunWar
+
+once the build finish successfully, then open a browser/POstman and run: http://localhost:8080/words/tah (change tah to any word you want to test)
+
+for windows users :
+1- extract the file
+2- open cmd and cd to the directory then run
+
+	gradlew build tomcatRunWar
+
+once the build finish successfully, then open a browser/POstman and run: http://localhost:8080/words/tah (change tah to any word you want to test)

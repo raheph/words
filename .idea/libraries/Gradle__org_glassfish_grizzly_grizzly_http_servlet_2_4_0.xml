@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.grizzly:grizzly-http-servlet:2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-http-servlet/2.4.0/14dbf856f0917f0d828a990ea3ac7639c8298783/grizzly-http-servlet-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-http-servlet/2.4.0/c891cf8f154f39a8d4064dc67a790aaa044e65d3/grizzly-http-servlet-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
